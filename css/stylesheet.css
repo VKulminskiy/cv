@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   margin: 0;
   padding: 0;
@@ -84,3 +85,98 @@ li {
 .border_1 {
   border-bottom: 1px solid #333d46;
 }
+=======
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: square;
+}
+
+li {
+  margin-left: 10px;
+}
+
+.left {
+  float: left;
+  width: 50%;  
+  margin-top: 20px;
+  margin-bottom: 10px;
+ 
+}
+
+.right {
+  float: right;
+  width: 50%;  
+  margin-top: 20px;
+  margin-bottom: 10px;
+ 
+}
+
+.padding {
+  padding-top: 40px;
+}
+
+.height_1 {
+  height: 250px;
+}
+
+.height_2 {
+  height: 160px;
+}
+
+.height_3 {
+  height: 110px;
+}
+
+.height_4 {
+  height: 110px;
+}
+
+.height_5 {
+  height: 165px;
+}
+
+.height_6 {
+  height: 110px;
+}
+
+.height_7 {
+  height: 360px;
+}
+
+.height_8 {
+  height: 250px;
+}
+
+.height_9 {
+  height: 160px;
+}
+
+.height_10 {
+  height: 180px;
+}
+.height_11 {
+  height: 50px;
+}
+
+.border {
+  border-bottom: 2px solid black;
+}
+
+.border_1 {
+  border-bottom: 1px solid #333d46;
+}
+
+.content {
+  margin: 0;
+  padding: 0;
+}
+>>>>>>> 8fd77ee91b36359a7f78497d21e27fe6f8d2b665
